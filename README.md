@@ -910,3 +910,8 @@ Me: Full Stackoverflow
 
 #### What is a computer's favorite beat?
 Answer: An algo-rhythm
+
+Q: Why is it that programmers always confuse Halloween with Christmas?
+A: Because 31 OCT = 25 DEC.
+
+
